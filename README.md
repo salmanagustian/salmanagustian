@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @salmanagustian
-- 👀 I’m interested in code, calisthenics, games
 - 📫 How to reach me: mail@salmanagustian.com
