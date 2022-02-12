@@ -7,7 +7,7 @@
 - All of my projects are available at (coming soon)
 
 
-##### Tools
+#### Tools
 <span>
 <img src="https://user-images.githubusercontent.com/79355239/143455396-08754238-ba05-4388-b372-785bafd7aafd.png" alt="bootstrap" height="32px" />
 </span>&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="32px" />
 </span>
 
-##### Here is my tech stack
+#### Here is my tech stack
 
 ![html](https://user-images.githubusercontent.com/79355239/151290701-52f6b597-6639-442c-9b02-98cda610e613.svg) &nbsp;
 ![css](https://user-images.githubusercontent.com/79355239/151290703-69deb652-edd6-426d-a23f-adc6d4b41fdb.svg) &nbsp;
