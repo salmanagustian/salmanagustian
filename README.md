@@ -1,8 +1,7 @@
 <h2 align="center">Hej! 👋 I'm Salman Agustian</h2>
-<h3 align="center">Someone who want to be a Fullstack Developer</h3>
 
-![bedroom](https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif)
 
+- Someone who want to be a Fullstack Developer
 - 📫 How to reach me: mail@salmanagustian.com
 - All of my projects are available at (coming soon)
 
