@@ -1,7 +1,6 @@
-<h2 align="center">Hej! 👋 I'm Salman Agustian</h2>
+<h2 align="center">Hej! 👋 I'm Salman Agustian</h2> | Someone who want to be a Fullstack Developer
 
 
-- Someone who want to be a Fullstack Developer
 - 📫 How to reach me: mail@salmanagustian.com
 - All of my projects are available at (coming soon)
 
