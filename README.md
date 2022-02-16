@@ -1,5 +1,6 @@
-<h2 align="center">Hej! 👋 I'm Salman Agustian</h2>
+## Hej! 👋 I'm Salman Agustian
 
+- 🌱 Currently learning about Node Js.
 - Someone who want to be a Fullstack Developer
 - 📫 How to reach me: mail@salmanagustian.com
 - All of my projects are available at (coming soon)
