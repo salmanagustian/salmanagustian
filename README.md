@@ -1,7 +1,6 @@
 ## Hej! 👋 I'm Salman Agustian
 
 - 📖 Currently learning about Node Js
-- 🌱 Someone who want to be a <strong>Fullstack Developer</strong>
 - 📫 How to reach me: mail@salmanagustian.com
 - 👨‍💻 All of my projects are available at <strong>(coming soon)</strong>
 
