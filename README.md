@@ -2,7 +2,7 @@
 
 - 📖 Currently learning about Node Js
 - 📫 How to reach me: mail@salmanagustian.com
-- 👨‍💻 All of my projects are available at <strong>(coming soon)</strong>
+- 👨‍💻 All of my projects are available at [here](https://thelastgoodman.id) <strong>(coming soon)</strong>
 
 
 #### Tools
