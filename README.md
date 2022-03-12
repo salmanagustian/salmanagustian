@@ -1,4 +1,4 @@
-## Hej! 👋 I'm Salman Agustian
+### Hej! 👋 I'm Salman Agustian
 
 - 📖 Currently learning about Node Js
 - 📫 How to reach me: mail@salmanagustian.com
