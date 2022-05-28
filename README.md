@@ -1,6 +1,6 @@
 ### Hej! 👋 I'm Salman Agustian
 
-- 📖 Currently learning about GO
+- 📖 Currently deep learning about NodeJS & Typescript
 - 📫 How to reach me: mail@salmanagustian.com
 - 👨‍💻 All of my projects are available at [here](https://thelastgoodman.id) <strong>(coming soon)</strong>
 
